@@ -8,6 +8,7 @@
         "components/*"
       ]
     },
+    "jsx": "react",
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "allowUnreachableCode": false,
